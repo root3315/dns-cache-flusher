@@ -1,0 +1,7 @@
+# DNS Cache Flusher has no external dependencies.
+# All required modules are part of the Python standard library:
+# - subprocess
+# - sys
+# - os
+# - argparse
+# - pathlib
